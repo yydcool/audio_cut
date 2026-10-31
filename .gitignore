@@ -1,0 +1,29 @@
+# Audio/media data
+*.m4a
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.opus
+*.mkv
+*.mp4
+
+# Generated output and caches
+*.report/
+*.cleaned.*
+.audio_cut_cache/
+download/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
